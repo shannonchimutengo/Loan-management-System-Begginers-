@@ -28,3 +28,11 @@
             System.out.println("monthly payments" + monthlypayments);
            
   ###      }
+  
+   ## Database Details 
+   
+   **The database used in this project is Maria Db  through [Xampp](https://www.apachefriends.org/)**
+   - String username = "root";
+   - String password = "";
+   -  String databaseUrl = "jdbc:mysql://localhost:3306/signup";
+
