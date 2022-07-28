@@ -6,8 +6,7 @@
 [www.techtarget.com](https://www.techtarget.com/whatis/definition/imperative-programming#:~:text=Imperative%20programming%20is%20a%20software,models%20are%20not%20called%20on.).
 
 ## Piece of Code
-
- private void CalculateLoan() {
+private void CalculateLoan() {
         if (this.loan_amount_field.getText().equals("")) {
             JOptionPane.showMessageDialog((Component)null, "Please Enter: Loan Amount", "AmountError", 0);
         } else if (this.interest_field.getText().equals("")) {
